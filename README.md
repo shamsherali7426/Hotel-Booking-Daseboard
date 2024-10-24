@@ -1,4 +1,4 @@
-# Hotel-Booking-Daseboard
+# Hotel-Booking-Dashboard
 1. Understanding the behaviour of data and cleaning the raw data. (ETL Process).
 2. Create pivots and extract the insights of the data information.
 3. Data visualization according to the required problem statement.
